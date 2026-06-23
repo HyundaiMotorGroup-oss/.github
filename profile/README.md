@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 Hyundai Motor Group — Open Source Platform
 
 **Official GitHub organization of Hyundai Motor Group**
@@ -9,8 +7,6 @@
 <br/>
 
 ![Hyundai Concept Car](https://raw.githubusercontent.com/HyundaiMotorGroup-oss/.github/main/profile/concept-car.png)
-
-</div>
 
 ---
 
