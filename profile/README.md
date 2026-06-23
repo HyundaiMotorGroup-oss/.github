@@ -15,7 +15,7 @@
 
 ---
 
-Hello, Open Source Community 👋
+## Hello Open Source Community 👋
 
 Welcome to **Hyundai Motor Group**'s official open source space on GitHub.
 
