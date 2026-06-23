@@ -7,6 +7,10 @@
 [![Website](https://img.shields.io/badge/hyundai.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://www.hyundai.com)
 [![GitHub Org](https://img.shields.io/github/followers/HyundaiMotorGroup-oss?label=Follow&style=flat-square)](https://github.com/HyundaiMotorGroup-oss)
 
+<br/>
+
+![Hyundai Concept Car](https://raw.githubusercontent.com/HyundaiMotorGroup-oss/.github/main/profile/concept-car.png)
+
 </div>
 
 ---
